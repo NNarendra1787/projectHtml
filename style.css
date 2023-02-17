@@ -1,0 +1,78 @@
+@import url("https://fonts.googleapis.com/css2?family=DM+Sans&family=Yeon+Sung&family=ZCOOL+XiaoWei&display=swap");
+
+#root {
+  display: block;
+  height: 240px;
+  width: 440px;
+}
+
+table,
+td,
+th {
+  border: 2px solid black;
+}
+
+.hc {
+  padding: 15px;
+  background-color: silver;
+}
+
+div pre {
+  color: rgb(5, 123, 163);
+}
+
+div {
+  border: 1px solid black;
+  border-radius: 12px;
+}
+
+body {
+  /* font-family: 'ZCOOL XiaoWei'; */
+  /* font-family: 'Times New Roman'; */
+  font-size: 20px;
+  /* width: 100%; */
+  margin: 56px 140px;
+  line-height: 0.9cm;
+}
+
+p,
+ul,
+ol,
+pre {
+  opacity: 0.5;
+}
+
+td {
+  padding: 15px;
+  background-color: rgb(212 206 206 / 73%);
+}
+
+.blank {
+  padding: 36px;
+}
+
+table {
+  margin: 10px auto;
+}
+
+.pos {
+  border: none;
+  padding: 10px 30px;
+}
+
+.ex {
+  border: 1px solid black;
+  border-radius: 12px;
+  padding: 3px 6px;
+  background-color: rgb(226 218 218 / 28%);
+}
+
+.la {
+  opacity: unset;
+  font-weight: bolder;
+}
+
+.bc {
+  background-color: white;
+}
+
